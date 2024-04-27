@@ -1,0 +1,171 @@
+#cabeca{
+    background-color: rgb(182, 182, 182);
+    border-radius: 10px;
+    display: flex;
+}
+
+#fonteh1{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-left: 10%;
+
+}
+
+.container{
+    display: flex;
+}
+
+.container1{
+    display: flex;
+}
+
+.botaoinicio{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 700px;
+
+}
+
+.botaficha{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 7%;
+    background-color: rgb(61, 61, 61);
+    border-radius: 5px;
+    width: 300px;
+    height: 25px;
+    text-align: center;
+    color: aliceblue;
+}
+
+.botaocontato{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 7%;
+
+}
+
+.botaosobre{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 7%;
+
+}
+
+.cadastro{
+    background-color: rgb(182, 182, 182);
+    width: 100%;
+    height: 90%;
+    border-radius: 10px;
+}
+
+#fontegeral{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.info{
+    margin-top: 1%;
+    padding-top: 1%;
+    color: rgb(255, 255, 255);
+    margin-left: 1%;
+}
+
+.input{
+    border-radius: 5px;
+}
+
+.nome{
+    margin-left: 2%;
+    padding-top: 2%;
+}
+
+.data{
+    margin-left: 2%;
+}
+
+#select1{
+    margin-left: 4%;
+}
+
+#input1{
+    margin-left: 5.5%;
+}
+
+#input2{
+    margin-left: 5%;
+}
+
+#input3{
+    margin-left: 8%;
+}
+
+#input4{
+    margin-left: 7%;
+}
+
+#input5{
+    margin-left: 10%;
+}
+
+.select{
+    border-radius: 5px;
+}
+
+.genero{
+    margin-left: 2%;
+}
+
+.telefone{
+    margin-left: 45%;
+    margin-top: -125px;
+    
+}
+
+.endereco{
+    margin-left: 45%;
+}
+
+.email{
+    margin-left: 45%;
+}
+
+.cad{
+    margin-left: 2%;
+    padding-top: 2%;
+    color: rgb(255, 255, 255);
+}
+
+.infoR{
+    margin-left: 2%;
+}
+
+.doenca{
+    margin-left: 2%;
+}
+
+.textarea{
+    border-radius: 5px;
+    height: 5%;
+    margin-left: 4.5%;
+}
+
+#textarea1{
+    margin-left: 5.5%;
+}
+
+#input8{
+    margin-left: 5%;
+}
+
+.alergia{
+    margin-left: 2%;
+}
+
+.medicamentos{
+    margin-left: 45%;
+    margin-top: -10.5%;
+}
+
+#input9{
+    margin-left: 5%;
+}
+
+.medico{
+    margin-left: 45%;
+}
